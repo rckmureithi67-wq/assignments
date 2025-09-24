@@ -1,6 +1,6 @@
 /*
-Name:
-Reg no:
+Name:Mugendi Eric Mureithi
+Reg no:CT100/G/26150/25
 Description:Program to compute volume
 Volume=Pie * radius^2* h
 */
@@ -30,4 +30,5 @@ int main () {
     printf("\n Volume is %.2f ",volume);
     
     return 0;
+
 }
