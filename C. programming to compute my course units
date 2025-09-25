@@ -1,0 +1,22 @@
+//Simple C programming
+/*
+Name:Erick
+Reg :CT100/G/26150/25
+Description:Semester Units 
+*/
+#include<stdio.h>
+
+int main()
+{
+    printf("Analogue Electronics \n");
+    printf("Computer systems and organizations\n");
+    printf("Fundamentals of ICT\n");
+    printf("Essentials of Accounting\n");
+    printf("Introduction to computer applications\n");
+    printf("Communications and Information literature skills\n");
+    printf("Mathematics for science\n");
+    printf("Introduction to programming and algorithms\n");
+    
+    
+    return 0;
+}
